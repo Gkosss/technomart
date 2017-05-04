@@ -1,0 +1,170 @@
+* { 
+	margin: 0; 
+	padding: 0;
+}
+
+.clearfix:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.header-upper {
+	min-height: 42px;
+	background-color: grey;
+}
+
+.container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+.logo {
+	float: left;
+}
+
+form {
+	display: inline-block;
+}
+
+.menu-right {
+	float: right;
+}
+
+.menu-right li {
+	display: inline-block;
+	list-style: none;
+}
+
+.main-info {
+	background-color: green;
+}
+
+.description {
+	width: 300px;
+	margin-right: 20px;
+	float: left;
+}
+
+.contacts {
+	width: 300px;
+	float: left;
+	margin-right: 20px;
+}
+
+.inter {
+	width: 300px;
+	float: left;
+}
+
+.main-navigation {
+	min-height: 60px;
+	background-color: yellow;
+}
+
+.main-navigation li {
+	display: inline-block;
+	list-style: none;
+}
+
+.materials {
+	width: 300px;
+	height: 123px;
+	float: left;
+	margin-right: 20px;
+	background-color: red;
+}
+
+.tool {
+	width: 300px;
+	height: 123px;
+	float: left;
+	margin-right: 40px;
+	background-color: red;
+}
+
+.equipment {
+	width: 300px;
+	height: 123px;
+	float: left;
+	background-color: red;
+	margin-bottom: 20px;
+}
+
+.sale {
+	width: 300px;
+	height: 123px;
+	background-color: red;
+	margin-bottom: 20px;
+}
+
+.delivery {
+	width: 300px;
+	height: 123px;
+	background-color: red;
+}
+
+.slider {
+	float: left;
+}
+
+.catalog-lower {
+	float: right;
+}
+
+.popular {
+	width: 960px;
+	height: 90px;
+	background-color: orange;
+}
+
+.card-product {
+	width: 220px;
+	height: 310px;
+	float: left;
+	margin-right: 20px;
+}
+
+.card-of-firm a {
+	width: 220px;
+	height: 150px;
+	float: left;
+	margin-right: 20px;
+}
+
+.service p {
+	width: 400px;
+}
+
+.menu li {
+	list-style: none;
+	width: 240px;
+	padding: 5px;
+}
+
+
+.delivery-title {
+	float: left;
+	width: 240px;
+	margin-right: 60px;
+}
+
+.info {
+	float: left;
+	width: 650px;
+}
+
+.info p {
+	width: 300px;
+}
+
+.about {
+	width: 540px;
+	float: left;
+	margin-right: 100px;
+}
+
+.map {
+	float: left;
+	width: 300px;
+}
